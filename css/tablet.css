@@ -1,0 +1,32 @@
+header img{
+  width: 250px;
+  height: 48px;
+}
+.header-title-container h1{
+  font-size: 3rem;
+  line-height: 3.2rem;
+}
+.header-title-container p{
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+}
+.main-tables-container {
+  width: 930px;
+  margin: 0 auto;
+}
+.currency-table--titile {
+  margin-left: 18%;
+}
+.commissions-table--titile {
+  margin-left: 18%;
+}
+.product-cards--container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 930px;
+  margin: 0 auto;
+}
+.plans-container--slider {
+  justify-content: center;
+  margin-right: 0;
+}
